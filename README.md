@@ -1,17 +1,20 @@
 # axie-infinity
 
+
 ## Welcome
     1. Glad to have you on the team
     2. Chance for you to make an income
     3. Any questions, talk directly to the manager
 
 ## Rules
+
 ### Contract Termination Rules
         1. You can’t be playing on any other account
         2. No cheating/lying is permitted
         3. Don’t infringe any Axie infinity rules
             1. https://axieinfinity.com/terms/ Section 4: Prohibited Activities
         4. If any of your axis get banned or your account get banned, you’ll lose your latest SLP and get excluded from the scholarship
+
 ### Expectations and day-to-day Activities
         1. You get one vacation day every 2 weeks
             1. If you will be inactive for some reason, please contact manager
@@ -29,3 +32,4 @@
 
 ## Available Teams:
     1. Team Paris
+
