@@ -2,9 +2,9 @@
 
 
 ## Welcome
-    1. Glad to have you on the team
-    2. Chance for you to make an income
-    3. Any questions, talk directly to the manager
+- Glad to have you on the team
+- Chance for you to make an income
+- Any questions, talk directly to the manager
 
 ## Rules
 
