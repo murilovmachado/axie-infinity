@@ -9,11 +9,11 @@
 ## Rules
 
 ### Contract Termination Rules
-        1. You can’t be playing on any other account
-        2. No cheating/lying is permitted
-        3. Don’t infringe any Axie infinity rules
-            1. https://axieinfinity.com/terms/ Section 4: Prohibited Activities
-        4. If any of your axis get banned or your account get banned, you’ll lose your latest SLP and get excluded from the scholarship
+- You can’t be playing on any other account
+- No cheating/lying is permitted
+- Don’t infringe any Axie infinity rules
+  - https://axieinfinity.com/terms/ Section 4: Prohibited Activities
+- If any of your axis get banned or your account get banned, you’ll lose your latest SLP and get excluded from the scholarship
 
 ### Expectations and day-to-day Activities
         1. You get one vacation day every 2 weeks
