@@ -31,3 +31,18 @@ Hi there, welcome to our scholarship. We're glad to have you on the team. Here's
 ## Available Teams:
 - Team Paris
 
+![Screen Shot 2021-10-03 at 11 47 01](https://user-images.githubusercontent.com/1504544/135750289-75d9b5d6-052f-49cb-8d96-60d5ae51a5a7.png)
+
+This is a Plant + double Aqua team. Axies details:
+  - Front Liner:
+![Screen Shot 2021-10-03 at 11 49 51](https://user-images.githubusercontent.com/1504544/135750423-3e9bb2eb-e8e8-4ac3-b79a-e18afe74c06e.png)
+
+  - Mid Liner:
+ ![Screen Shot 2021-10-03 at 11 50 05](https://user-images.githubusercontent.com/1504544/135750432-b512b536-32e0-40aa-8822-25eb3a691503.png)
+
+  - Back Liner:
+ ![Screen Shot 2021-10-03 at 11 50 14](https://user-images.githubusercontent.com/1504544/135750441-b1024e4c-1bbf-41da-b241-6ede0e609817.png)
+
+
+P.S: When you start playing, these axies will be level 1.
+
