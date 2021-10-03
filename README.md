@@ -6,7 +6,7 @@ Hi there, welcome to our scholarship. We're glad to have you on the team. Here's
 
 Are you ready for the challenge? If yes, read through this page, and apply for our scholarship program. We'll take a look at your profile and contact you if we think you're a good fit.
 
-[\>\> Apply Now <<](#)
+[\>\> Apply Now \<\<](#)
 
 ## Rules
 
