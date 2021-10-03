@@ -1,4 +1,4 @@
-# axie-infinity
+# Home Sweet Axies Scholarship
 
 
 ## Welcome
@@ -6,7 +6,7 @@ Hi there, welcome to our scholarship. We're glad to have you on the team. Here's
 
 Are you ready for the challenge? If yes, read through this page, and apply for our scholarship program. We'll take a look at your profile and contact you if we think you're a good fit.
 
-Apply now!
+>> Apply Now <<
 
 ## Rules
 
@@ -30,7 +30,7 @@ Apply now!
   - Including bonus SLP (e.g. Bosses);
 - Payments are the 15th and 30th of the month;
 - Except the first payment, that's only after you earn 3.000 SLP;
-  - You don't need to reach 150 SLP during this time, so use it to learn more about the game: search online the best strategies, watch other people play and ask the manager for advice.
+  - You don't need to reach 150 SLP during this time, so use it to learn more about the game: search online for the best strategies, watch other people play and ask the manager for advice.
 
 ## Available Teams:
 
