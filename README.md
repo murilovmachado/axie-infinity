@@ -1,4 +1,4 @@
-# Axies Scholarship
+# Scholarship
 
 
 ## Welcome
