@@ -1,4 +1,4 @@
-# Home Sweet Axies Scholarship
+# Axies Scholarship
 
 
 ## Welcome
