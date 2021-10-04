@@ -32,7 +32,7 @@ Are you ready for the challenge? If yes, read through this page, and apply for o
 - Except the first payment, that's only after you earn 3.000 SLP;
   - You don't need to reach 150 SLP during this time, so use it to learn more about the game: search online for the best strategies, watch other people play and ask the manager for advice.
 
-## Available Teams:
+## Teams:
 
 ### Team Paris
 
