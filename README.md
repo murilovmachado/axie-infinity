@@ -28,7 +28,7 @@ Are you ready for the challenge? If yes, read through this page, and apply for o
   - Create your own Ronin Wallet;
 - You get 50% percent of all SLP you earn;
   - Including bonus SLP (e.g. Bosses);
-- Payments are the 15th and 30th of the month;
+- Payments are at the 15th and 30th of the month;
 - Except the first payment, that's only after you earn 3.000 SLP;
   - You don't need to reach 150 SLP during this time, so use it to learn more about the game: search online for the best strategies, watch other people play and ask the manager for advice.
 
